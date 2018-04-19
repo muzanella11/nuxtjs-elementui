@@ -1,4 +1,4 @@
-# medigo-clinic
+# Nuxtjs Elementui
 
 > Nuxt.js project
 
